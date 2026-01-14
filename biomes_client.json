@@ -1,0 +1,39 @@
+/*
+ - Default is the settings that a biome will use if it is not specified.
+ - All fields in a biome are optional default values will overwrite the missing ones.
+ - If the default is overwritten in a resource pack then it will overwrite all biomes unless the resource pack defines the biomes.
+  */
+{
+  "biomes": {
+    "hell": {
+       "water_surface_color": "#905957",
+       "water_fog_color": "#905957",
+       "fog_color": "#FF5102"
+    },
+    "warped_forest": {
+      "water_surface_color": "#905957",
+      "water_fog_color": "#905957",
+      "fog_color": "#00BCB6"
+    },
+    "crimson_forest": {
+      "water_surface_color": "#905957",
+      "water_fog_color": "#905957",
+      "fog_color": "#FF6600"
+    },
+    "soulsand_valley": {
+      "water_surface_color": "#905957",
+      "water_fog_color": "#905957",
+      "fog_color": "#2C8793"
+    },
+    "basalt_deltas": {
+      "water_surface_color": "#3f76e4",
+      "water_fog_color": "#423e42",
+      "fog_color": "#9F99B2"
+    },
+    "the_end": {
+      "water_surface_color": "#62529e",
+      "water_fog_color": "#62529e",
+      "fog_color": "#FFFF00"
+    }
+  }
+}
