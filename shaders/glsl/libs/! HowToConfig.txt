@@ -1,0 +1,24 @@
+So, there are a few things you need to know before editing the configurator.
+ [!] Use monospaced font and turn off Word warp to make the instructions easier to read.
+  [1.] Toggle
+    It's a type of editing that used to turn on and off features in the shader.
+    What to do? It's really easy.
+    
+    For example here :
+        #define amogus_spinning
+      to enable amogus_spinning
+    and :
+        //#define amogus_spinning
+      to disable amogus_spinning
+      
+    Yeah, it's that simple.
+    Basically, put // in front of #define to disable that feature; remove it to enable.
+    
+  [2.] Value
+    It's a type of editing that uses value for editing.
+    Basically, just edit the value as you would like to.
+     [!] Always use decimal values for editing. Or else, the game will occur an error.
+
+These are simple instructions you need to know; now you can properly edit the configurator.
+Hope this useful. Please enjoy using the shader!
+ - CuteBoii
