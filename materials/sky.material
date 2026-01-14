@@ -1,0 +1,12 @@
+{
+  "cubemap": {
+    "vertexShader": "shaders/cubemap.vsh",
+    "vrGeometryShader": "shaders/uv.geometry",
+    "fragmentShader": "shaders/cubemap.fsh"
+  },
+  "end_sky": { 
+    "vertexShader" : "shaders/endSky.vsh" ,
+    "vrGeometryShader": "shaders/uv.geometry",
+    "fragmentShader" : "shaders/endSky.fsh"
+  }
+}
